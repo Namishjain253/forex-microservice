@@ -1,12 +1,12 @@
-Introduction
+#Introduction
 This project is a simple REST micro-service built with Spring Boot. It fetches foreign exchange rates for USD from the European Central Bank and stores this data in a PostgreSQL database. The service provides endpoints to access the stored FX rates. The external API is only called when there is no data available in the database.
 
-Prerequisites
+#Prerequisites
 Java 17 or higher
 Maven 3.6.3 or higher
 Git
 
-Installation and Setup
+#Installation and Setup
 
 Clone the repository
 bash
