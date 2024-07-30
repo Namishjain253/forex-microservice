@@ -4,5 +4,15 @@ This project is a simple REST micro-service built using Spring Boot that communi
 Prerequisites
 Java 17 or higher
 Maven 3.6.3 or higher
-Docker
 Git
+
+Setup
+Clone the repository
+
+bash
+git clone https://github.com/Namishjain253/forex-microservice.git
+cd forex-microservice
+Build the project
+
+bash
+mvn clean install
